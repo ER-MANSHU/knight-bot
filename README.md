@@ -5,7 +5,7 @@
   
   
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github.com/DEVIL-PREDATOR/knight-bot.git&theme=dark)
+![github card](git@github.com:DEVIL-PREDATOR/knight-bot.git&theme=dark)
   
   
   
