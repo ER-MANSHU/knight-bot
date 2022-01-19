@@ -25,3 +25,22 @@
 - **ɢᴇᴛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʟɪɴᴋ!** 
 - **ɢᴇᴛ ʟʏʀɪᴄꜱ ᴏꜰ ʏᴏᴜʀ ꜱᴏɴɢ!**
 
+  
+  <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
+
+- FFmpeg
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.8+ or 3.7
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [MongoDB](https://cloud.mongodb.com/)
+
+🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
+
+[@genStr_Bot](https://t.me/genStr_Bot)
+
+[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@BoooCreative/Session-Generater#main.py)
+###   
+<a href="https://youtu.be/nQAyresJTC0"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+
+
+
