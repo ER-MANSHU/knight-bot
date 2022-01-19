@@ -5,7 +5,7 @@
   
   
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/DEVIL-PREDATOR/knight-bot.git&theme=dark)
+![github card](https://github.com/DEVIL-PREDATOR/knight-bot.git&theme=dark)
   
   
   
