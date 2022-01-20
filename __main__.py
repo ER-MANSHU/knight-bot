@@ -1,3 +1,3 @@
-## © Zaid Vc Player https://github.com/Itsunknown-12/Zaid-Vc-Player
+## © KNIGHT MUSIC BOT https://github.com/DEVIL-PREDATOR/knight-bot
 
-## @Superior_bots
+## @PREDATOR_BOTS
