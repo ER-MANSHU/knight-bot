@@ -27,7 +27,7 @@ async def join_group(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Zaid2_Assistant"
+        user.first_name = "devil_predator_xd"
 
     try:
         await USER.join_chat(invitelink)
